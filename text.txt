@@ -1,0 +1,4 @@
+Este é um arquivo de texto de exemplo para testar o funcionamento do programa minigrep em Rust.
+Você pode adicionar várias linhas de texto aqui.
+Experimente buscar por palavras específicas usando o seu programa!
+Boa sorte com seus testes.
